@@ -1,0 +1,26 @@
+{
+        "allowHttpMethods": "GET, POST, PUT, DELETE",
+        "apiName": "/couch/api/",
+        "apiPort": 5003,
+        "apiVersion": "v1",
+        "backlog": 511,
+        "couchUrl":"http://localhost:5984",
+        "couchRequestTimeout":1000,
+        "couchDbName":"recargas",
+        "host": "0.0.0.0",
+        "logRequests": true,
+        "jwtActive": false,
+        "jwtExpireTokenTime": 4000,
+        "jwtPassword": "clave",
+        "jwtUsers":
+        [
+                {
+                        "password": "test",
+                        "username": "test"
+                }
+        ],
+        "logFileSize": 5,
+        "logLevel": "debug",
+        "logMaxFiles": 10,
+        "logPath": "logs/api_couch_restify.log"
+}

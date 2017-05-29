@@ -1,0 +1,5 @@
+projectKey=api_restify_couchdb_jwt_es6_demo_guate:js
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/api_restify_couchdb_jwt_es6_demo_guate:js
+ceTaskId=AVxVKWVPW6kogJ06vP7s
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVxVKWVPW6kogJ06vP7s
