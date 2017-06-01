@@ -24,6 +24,7 @@
 <td>Producción</td>
 </tr>
 </table>
+<p>En CouchDB se debe crear una base de datos cuyo nombre es el valor de la propiedad <b>couchDbName</b></p>
 </li>
 <li>Ejecutar el comando segun el entorno:</li>
 <b>Nota:</b> Si se van a ejecutar testing o production se debe ejecutar el siguiente comando <b>npm run build</b>, luego se debe copiar la carpeta "config" que encuentra dentro de "src" y ponerla dentro de la carpeta "dist"
