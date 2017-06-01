@@ -1,5 +1,6 @@
 <h2>Pasos</h2>
 <ol>
+<li>Abrir una consola en la carpeta del proyecto</li>
 <li>Ejecutar el comando : <b>npm install</b></li>
 <li>Ejecutar el comando : <b>npm install -g pm2</b></li>
 <li>Configurar uno de los archivos de propiedades segun el entorno
